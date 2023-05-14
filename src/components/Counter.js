@@ -13,7 +13,7 @@ export function Counter() {
         <button
           onClick={() => dispatch(increment())}
         >
-          Increment
+          Incrementtt
         </button>
         <span>{count}</span>
        
